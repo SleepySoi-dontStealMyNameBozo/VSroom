@@ -24,6 +24,15 @@ Even though most people on GitHub share the inside code, mine is just an HTML to
 
 ## ⚙️ Core Mechanics & Technical Limitations
 
+---
+
+(It will work better if you also use these:
+
+* [UtaFormatix3](https://sdercolin.github.io/utaformatix3/)
+* [RTH for VSROOM](https://pibbms.nekoweb.org/RTHforVSROOM.html)
+
+One of them is from another cool GitHub user and one of them is mine.)
+
 VSroom is built with explicit functional constraints for focused, simplified rendering. Please keep the following operational rules in mind:
 
 ### 1. Single Singer Rule
