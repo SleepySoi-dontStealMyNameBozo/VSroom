@@ -44,3 +44,24 @@ VSroom is built with explicit functional constraints for focused, simplified ren
 3. Export your rendered `.wav` stem.
 4. Repeat for additional layers (harmonies/lead) and import into your preferred audio editing software.
 (or just mess around)
+
+
+---
+
+## 🙏 Acknowledgments
+
+* **HTML Executable** – For providing a way to package web application code into a standalone `.exe`, protecting the source code and preventing theft.
+* **UTAU** – For pioneering the `.ust` file format that powers VSroom's sequence input.
+
+---
+
+## ⚠️ Repository & Forking Rules
+
+> **PLEASE READ BEFORE FORKING:**
+> Public forks of this repository are **strictly prohibited** without reviewing and agreeing to the Fork Terms of Service. Because the distribution build utilizes compiled executable wrappers to protect source files, unauthorized cloning, decompilation, or redistribution of underlying assets is not permitted.
+
+---
+
+## 🔮 Future Vision
+
+VSroom started as a lightweight project, but we hope to continue developing it into a much bigger platform for legacy and custom voicebanks. Thank you for using and supporting VSroom!
