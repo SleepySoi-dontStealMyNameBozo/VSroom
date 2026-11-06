@@ -2,6 +2,8 @@
 
 **VSroom** is a lightweight, simplified vocal synthesis application designed to revive legacy voicebanks—specifically **EVA-10** and **LUMIOUS LUMI**—alongside new additions, giving them a distinct, standalone home. 
 
+Even though most people on GitHub share the inside code, mine is just an HTML to Python wrapper and it's very simple. In the website world many people steal codes, and I haven't found out how to stop someone from right-clicking yet, so I can't put it on a site.
+
 ---
 
 ## 🎤 Supported Voicebanks
