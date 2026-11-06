@@ -1,4 +1,3 @@
-# VSroom
 # VSroom (v1.0)
 
 **VSroom** is a lightweight, simplified vocal synthesis application designed to revive legacy voicebanks—specifically **EVA-10** and **LUMIOUS LUMI**—alongside new additions, giving them a distinct, standalone home. 
