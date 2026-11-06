@@ -50,7 +50,9 @@ VSroom is built with explicit functional constraints for focused, simplified ren
 
 ## 🙏 Acknowledgments
 
-* **HTML Executable** – For providing a way to package web application code into a standalone `.exe`, protecting the source code and preventing theft.
+* **pywebview** – For providing the lightweight native window bridge that safely wraps web code into a desktop application.
+
+* **PyInstaller** – For packing everything into a clean standalone .exe.
 * **UTAU** – For pioneering the `.ust` file format that powers VSroom's sequence input.
 
 ---
